@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matheus Centa"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Matheus Centa"
 description              : &description "personal description"
