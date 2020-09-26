@@ -18,7 +18,7 @@ Hello, my name is Matheus and I am studying Machine Learning. In 2021, I will fi
 
 ## Check out
 
-* [My portifolio](https://mmcenta.github.io/portifolio) with some of my projects, both ongoing and finished;
+* [My Projects](https://mmcenta.github.io/portifolio), both ongoing and finished;
 * [My CV](https://mmcenta.github.io/cv) and a link to the PDF version;
 * [Blog](https://mmcenta.github.io/year-archive/) about Machine Learning;
 * [Paper Notes](https://github.com/mmcenta/paper-notes) the repository where I keep notes on some papers that I've read;
