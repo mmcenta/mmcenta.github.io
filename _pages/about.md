@@ -3,16 +3,20 @@ permalink: /
 title: "Matheus Centa's Personal Page"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-My name is Matheus Centa and I am a student with interest in Machine Learning. In 2021, I will finish my Master's Degree in Statistical and Deep Learning at École Polytechnique/UPMC. My interest lies in understanding intelligence and creating better AI in the process. Currently, I am particularly interested in reinforcement learning, meta-learning and unsupervised learning.
+Hello, my name is Matheus and I am studying Machine Learning. In 2021, I will finish my Master's Degree in Statistical and Deep Learning at École Polytechnique/UPMC. My interest lies in understanding intelligence and creating better AI in the process. Currently, I am particularly interested in reinforcement learning, meta-learning and unsupervised learning.
 
-I am currently looking for an internship for the summer of 2021.
+## News
 
-If you're interested, check ou:
+* **I am currently looking for an internship for the summer of 2021**;
+* I will be attenting the [Deep Reinforcement Learning Workshop by Simons Intitutite](https://simons.berkeley.edu/workshops/rl-2020-1) via Zoom;
+* I am following 2020's [Berkeley's Deep Reinforcement Learning course](http://rail.eecs.berkeley.edu/deeprlcourse/), [here](https://github.com/mmcenta/berkeley-deeprlcourse)'s the homework repository.
+
+## Check out
 
 * [My portifolio](https://mmcenta.github.io/portifolio) with some of my projects, both ongoing and finished;
 * [My CV](https://mmcenta.github.io/cv) and a link to the PDF version;
