@@ -1,6 +1,6 @@
 ---
 title: "discrete-embeddings"
-excerpt: "Tensorflow 2 implementations of VQ-VAE papers and experiments. <br/><img src='/images/discrete-embeddings.png'>"
+excerpt: "Tensorflow 2 implementations of VQ-VAE papers and experiments. <br/><img src='/images/discrete_embeddings.png'>"
 collection: projects
 ---
 
