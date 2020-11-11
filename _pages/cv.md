@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Link to 2020 CV](https://drive.google.com/file/d/18UEkNB9TwaAUjMFaJUpgsT_2GB7f8vA4/view?usp=sharing)
+
 Education
 ======
 
