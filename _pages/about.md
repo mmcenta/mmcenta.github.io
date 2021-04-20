@@ -12,9 +12,7 @@ Hello, my name is Matheus and I am studying Machine Learning. In 2021, I will fi
 
 ## News
 
-* **I am currently looking for an internship for the summer of 2021**;
-* I attended the [Deep Reinforcement Learning Workshop by Simons Intitutite](https://simons.berkeley.edu/workshops/rl-2020-1) via Zoom. I am re-watching the talks and taking notes for future reference, you can read them [here](https://github.com/mmcenta/simons-institute-workshops);
-* I am following 2020's [Berkeley's Deep Reinforcement Learning course](http://rail.eecs.berkeley.edu/deeprlcourse/), [here](https://github.com/mmcenta/berkeley-deeprlcourse)'s the homework repository.
+* I am currently working as a Research Intern at INRIA (SCOOL group);
 
 ## Check out
 
